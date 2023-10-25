@@ -16,6 +16,8 @@ public class Utente {
     private Date ultimaModifica;
     private Boolean flagDelete;
     private Ruolo ruolo;
+    
+    
 	public int getId() {
 		return id;
 	}
@@ -90,7 +92,5 @@ public class Utente {
 				+ ruolo + "]";
 	}
 
-    // Getter e setter per ciascun campo
-
-    // Costruttori
+   
 }

@@ -24,7 +24,5 @@ public class Ruolo {
 		return "Ruolo [id=" + id + ", ruolo=" + ruolo + "]";
 	}
 
-    // Getter e setter per ciascun campo
-
-    // Costruttori
+   
 }
